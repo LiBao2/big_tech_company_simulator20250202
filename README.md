@@ -1,0 +1,1 @@
+# big_tech_company_simulator
