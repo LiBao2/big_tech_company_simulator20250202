@@ -1,1 +1,6 @@
-
+event_date_excel	event_date	event_timestamp	user_id	device_id	register_date	user_slogan	city_most_frequent	city_type_most_frequent	is_place_bring_in	is_place_city_bring_in	is_place_province_bring_in	is_place_company_bring_in	bring_in_place_type	bring_in_place	bring_in_place_country	bring_in_place_province	bring_in_place_city	bring_in_place_city_distribution	is_university_bring_in	is_university_985_bring_in	bring_in_university	bring_in_university_abbr	bring_in_university_city	bring_in_university_country	is_university_freshman_bring_in	is_university_undergraduate_bring_in	is_university_postgraduate_bring_in	is_university_master_bring_in	bring_in_university_grade	gender	age	travel_destination_last_30d	travel_destination_metropolitan_last_30d	travel_dest_metropolitan_place_last_30d		
+2025/2/4			dysdxcqc001		2025/2/3	大一师弟喜欢骑车																														
+2025/2/4			fox20250204		2025/2/4		北京		TRUE	TRUE	TRUE	FALSE	大城市	北京	CN	北京	北京		TRUE	FALSE	首都医科大学	CCMU	北京	CN	FALSE	TRUE	FALSE	FALSE		female						
+2025/2/4			jtlldrxdb20250204		2025/2/4		北京		TRUE	TRUE	TRUE	FALSE	大城市	北京	CN	北京	北京		FALSE	FALSE	中国矿业大学	CUMT	北京	CN	TRUE	TRUE	FALSE			female		延边	北京	beijing_universal_resort		
+2025/2/4			257-20250204		2025/2/4		北京		TRUE	TRUE	TRUE	FALSE	大城市	北京	CN	北京	北京		FALSE	FALSE										female			北京			
+2025/2/4			bxcl20250204		2025/2/4		北京		TRUE	TRUE	TRUE	FALSE	大城市	北京	CN	北京	北京		FALSE	FALSE										female			北京			
