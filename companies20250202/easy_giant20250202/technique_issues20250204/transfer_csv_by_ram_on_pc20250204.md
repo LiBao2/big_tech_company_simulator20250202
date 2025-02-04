@@ -13,3 +13,9 @@ data=pd.read_csv(data,sep='\t')
 
 
 ```
+
+```python
+data=data.to_string(index=False)
+
+```
+
