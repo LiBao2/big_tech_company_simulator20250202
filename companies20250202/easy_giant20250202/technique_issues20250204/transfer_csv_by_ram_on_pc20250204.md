@@ -15,7 +15,10 @@ data=pd.read_csv(data,sep='\t')
 ```
 
 ```python
-data=data.to_string(index=False)
-
+#data=data.to_string(index=False)
+data_out=io.StringIO()
+data.to_csv(data_out,index=False)
+data_out.seek(0)
+print(data_out.read())
 ```
 
