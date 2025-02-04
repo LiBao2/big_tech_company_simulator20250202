@@ -9,7 +9,7 @@ import io
 
 data=pyperclip.paste()
 data=io.StringIO(data)
-data=pd.read_csv(data)
+data=pd.read_csv(data,sep='\t')
 
 
 ```
