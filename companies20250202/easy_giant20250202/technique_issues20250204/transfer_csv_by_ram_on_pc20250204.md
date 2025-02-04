@@ -19,6 +19,7 @@ data=pd.read_csv(data,sep='\t')
 data_out=io.StringIO()
 data.to_csv(data_out,index=False)
 data_out.seek(0)
-print(data_out.read())
+#print(data_out.read())
+data_out=data_out.read()
 ```
 
