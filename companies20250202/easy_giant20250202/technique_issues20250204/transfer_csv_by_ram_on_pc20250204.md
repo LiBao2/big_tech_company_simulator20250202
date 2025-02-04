@@ -3,5 +3,6 @@ copy file from office365/excel/google sheets/wps office/lark/feishu/dingtalk/wew
 
 
 ```python
+import pyperclip
 
 ```
